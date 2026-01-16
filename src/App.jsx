@@ -172,7 +172,7 @@ export default function CostToServeCalculator() {
             <p style={{ margin: 0, fontSize: "13px", color: "#94a3b8", letterSpacing: "0.5px" }}>
               SERVICE DESIGN FRAMEWORK by <a href="https://www.thisishcd.com" target="_blank" rel="noopener noreferrer" style={{ color: "#ff8e53", textDecoration: "none" }}>Gerry Scullion</a>
             </p>
-        </div>
+          </div>
         <div style={{
           background: 'rgba(255,107,107,0.1)',
           border: '1px solid rgba(255,107,107,0.3)',
